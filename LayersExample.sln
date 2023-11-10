@@ -5,11 +5,11 @@ VisualStudioVersion = 17.7.34031.279
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DAL", "DAL\DAL.csproj", "{A1CCFECA-568B-4A0D-A7DB-2D07F358C264}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "Entities\Entities.csproj", "{99A746A8-4510-4C03-80B0-7D38D66DF8F6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Entities", "Entities\Entities.csproj", "{99A746A8-4510-4C03-80B0-7D38D66DF8F6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LandCasterApi", "LandCasterApi\LandCasterApi.csproj", "{893F296D-6B8A-4085-9B99-14903B23371B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LandCasterApi", "LandCasterApi\LandCasterApi.csproj", "{893F296D-6B8A-4085-9B99-14903B23371B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "BLL\BLL.csproj", "{9028E3F7-D91C-4830-99E1-EA899637156F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BLL", "BLL\BLL.csproj", "{9028E3F7-D91C-4830-99E1-EA899637156F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
