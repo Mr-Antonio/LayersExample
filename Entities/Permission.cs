@@ -21,6 +21,13 @@ namespace Entities
 
         public List<Role> Roles { get; } = new();
         public List<User> User { get; } = new();
+        // Nuevo campo en la relación
+        public Dictionary<int, bool> IsActiveForPermission { get; } = new();
+
+
+        // Nuevo campo en la relación
+        public Dictionary<int, bool> IsActiveForRole { get; } = new();
+
 
     }
 }

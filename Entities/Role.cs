@@ -23,6 +23,7 @@ namespace Entities
 
         public List<User> Users { get; } = new();
 
-
+        // Nuevo campo en la relación
+        public Dictionary<int, bool> IsActiveForPermission { get; } = new();
     }
 }
